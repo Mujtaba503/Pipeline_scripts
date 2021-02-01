@@ -1,2 +1,2 @@
 
-jcho "Deploying Build : %date% : %time%"
+echo "Deploying Build : %date% : %time%"
