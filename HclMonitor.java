@@ -7,11 +7,11 @@ class HclMonitor {
     char[] array = new char[100];
     try {
       // Creates a reader using the FileReader
-      FileReader input = new FileReader("c:\\Javatest\\newFile.txt");
+      FileReader input = new FileReader("c:\\Javatest1\\Mujtaba.txt");
 
       // Reads characters
       input.read(array);
-      System.out.println("Data in the file:");
+      System.out.println("This is created by developer Mujtaba:");
       System.out.println(array);
 
       // Closes the reader
